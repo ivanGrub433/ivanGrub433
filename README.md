@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Iván</h2>
 
-<!--
-**ivanGrub433/ivanGrub433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻•💻 About Me </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎓 &nbsp; Studying Engineering and coding stuffs.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Java | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+
+- 🔧 &nbsp; Git 
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; ReactJS | NodeJS 
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="mailto:ivangrub@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivangrub@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+<hr>
+
+
+
+
